@@ -27,8 +27,10 @@
    - ініцюювати міграцію даних з MongoDB в Postgres командою:
      python utils/migration.py
    - запустити сервер: python manage.py runserver
+   - для логіна зареєстрованого коритувача викоритовувати username, а не email.
 
-   5. Contributing Guidelines
+
+5. Contributing Guidelines
 Код може вільно копіюватися і використатися.
 
 6. License
