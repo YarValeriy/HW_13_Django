@@ -13,7 +13,7 @@
 Для встановлення пакету і роботи з БД Postgres необхідно:
    - скопіювати hw_project на локальний диск
    - запустити БД postgres на локальній машині
-   - в файлі hw_project/hw_project/settings.py встановити параметри підключення до БД postgresза замінивши поточні параметри:
+   - в файлі hw_project/hw_project/settings.py (.env) встановити параметри підключення до БД postgresза замінивши поточні параметри:
      DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
