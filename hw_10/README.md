@@ -9,7 +9,7 @@
    - перейти в робочий каталоg: cd hw_project
    - запустити сервер: python manage.py runserver
    - перейти на сайт за посиланням http://127.0.0.1:8000/ 
-5. Configuration.
+4. Configuration.
 Для встановлення пакету і роботи з БД Postgres необхідно:
    - скопіювати hw_project на локальний диск
    - запустити БД postgres на локальній машині
@@ -28,8 +28,8 @@
      python utils/migration.py
    - запустити сервер: python manage.py runserver
 
-   7. Contributing Guidelines
+   5. Contributing Guidelines
 Код може вільно копіюватися і використатися.
 
-8. License
+6. License
 Проєкт створений в межах навчального курсу школи GoIt, якій і належать права на продукт.
